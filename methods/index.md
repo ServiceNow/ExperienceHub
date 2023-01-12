@@ -17,4 +17,5 @@ We organize methods into 3 different categories
 
 ## Ideate
 [How Might We](./how-might-we) - Reframe backwards looking statements around the challenge with the current with an idealized view of the future
-[Prioritization](methods/prioritization.md) - Delivery team and stakeholders come together to align on the rank order of features and functionalities desired for a solution.
+
+[Prioritization](./prioritization.md) - Delivery team and stakeholders come together to align on the rank order of features and functionalities desired for a solution.
