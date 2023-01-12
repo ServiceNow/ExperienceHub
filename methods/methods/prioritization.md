@@ -13,18 +13,23 @@ permalink: /methods/prioritization
 **Note:** It is important to have a ServiceNow Platform expert during this activity to ensure the feasibility of delivering the capability with the platform. You may also need to consult representatives from other IT groups if the feature requires integration with another system. 
 
 ## Outcomes
-•	Team alignment and ownership for features/functionalities that are most important for the roadmap  
+Team alignment and ownership for features/functionalities that are most important for the roadmap  
 Reduction in scope creep
 
 ## Prerequisites
-•	How might we's workshopConducting reality checks for proposed ideas, evaluating impact, and effort
+- [How Might We](./how-might-we) workshop
+- Conducting reality checks for proposed ideas, evaluating impact, and effort
 
 ## Participants
 The best teams are made up of product manager, business analysts, design strategists, developers, platform architect, and stakeholders
 
 ## Materials Needed
-•	Conference room, whiteboard, markers, sticky dots, butcher paper
-•	Or real-time collaboration whiteboarding tools such as Miro, or Mural
+- Conference room
+- whiteboard
+- markers
+- sticky dots
+- butcher paper
+- Or real-time collaboration whiteboarding tools such as Miro, or Mural
 
 ## Agenda
 
