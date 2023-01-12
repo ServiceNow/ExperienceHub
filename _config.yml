@@ -29,7 +29,7 @@ twitter_username: servicenow
 github_username:  stegelsn
 
 # Build settings
-theme: pages-themes/modernist@v0.2.0
+theme: minima
 plugins:
   - jekyll-feed
   - jefyll-remote-theme
