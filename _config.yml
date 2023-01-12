@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ServiceNow Experience Enablement
+author: AJ Siegel
 email: experiencehub@servicenow.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn how to deliver great experiences with ServiceNow products and the platform through user experience (ux) methods and plays. Learn how to deliver valuable outcomes to your business by using human-centered design (HCD) techniques during your implmentation process.
@@ -30,9 +31,49 @@ github_username:  stegelsn
 github:
   owner_name : AJ Siegel
   
-# Build settings
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
 
-remote_theme: pages-themes/cayman@v0.2.0
+navbar-links:
+  Methods: "methods"
+  Plays: "plays"
+  ServiceNow: "https://www.servicenow.com"
+
+
+################
+# --- Logo --- #
+################
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/images/eo-avatar.jpeg"
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: false
+
+###########################
+# --- General options --- #
+###########################
+
+# Add a search button to the navbar
+post_search: true
+
+
+######################################
+# --- Colours / background image --- #
+######################################
+
+# For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
+site-css:
+  - "/assets/css/custom-styles.css"
+
+##########################
+# --- Build Settings --- #
+##########################
+
+#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: daattali/beautiful-jekyll@5.0.0
 #theme: minima
 plugins:
   - jekyll-feed

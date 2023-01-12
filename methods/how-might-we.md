@@ -1,8 +1,8 @@
 ---
 
-title: "Methods - How Might We"
+title: "How Might We"
 description: "Reframe backwards looking statements around the challenge with the current with an idealized view of the future"
-layout: default
+layout: page
 permalink: /methods/how-might-we
 ---
  
