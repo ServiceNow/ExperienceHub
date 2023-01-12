@@ -13,7 +13,7 @@ There are 5 key content types you'll find throughout the site
 
 - Best Practices - Research based suggestions on how best to use capabilities of the platform
 - Guides - Foundational content for how to approach the methods and plays
-- Methods - How to instructions for executing specific activities
+- [Methods](methods/) - How to instructions for executing specific activities
 - Plays - Groups of methods that together deliver valuable information or progress towards your goals
 
 ## Common Outcomes
