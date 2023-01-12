@@ -19,20 +19,20 @@ It is often difficult for teams to move beyond a punch list of problems to fix a
 **Ideal:** “How might we collect the right information from the user to keep the process moving forward?
 
 ## Outcomes
-•	Prioritized list of areas to focus
-•	Team focused on moving forward rather than looking back
+* Prioritized list of areas to focus
+* Team focused on moving forward rather than looking back
 
 ## Prerequisites
-•	Identified long term goals for a process or business model (See: Long Term Goals / Challenges)
-•	Prioritized list of current state challenges (See: Challenges and Friction & Prioritization)
+* Identified long term goals for a process or business model (See: Long Term Goals / Challenges)
+* Prioritized list of current state challenges (See: Challenges and Friction & Prioritization)
 
 ## Participants
 Ideally this is conducted with participants that interact with the process or business model and leadership sponsoring the transformation.
 
 ## Materials Needed
-- Sticky Notes
-- Sharpies
-- Wall or Whiteboard
+* Sticky Notes
+* Sharpies
+* Wall or Whiteboard
 
 ## Process
 1.	Make sure all participants can see the prioritized challenges and the long-term goals
@@ -52,9 +52,9 @@ Reference: [Using “How Might We” Questions to Ideate on the Right Problems](
 Use the Prioritization method or another technique to select 3-5 statements to focus on for your project
 
 ## Related Methods
-- [Prioritization](./prioritization)
-- Challenges & Friction
-- Long Term Goals & Challenges
+* [Prioritization](./prioritization)
+* Challenges & Friction
+* Long Term Goals & Challenges
 
 ## Related Plays
 [Transforming a Business Process](/plays/transforming-a-business-process)
