@@ -29,6 +29,7 @@ twitter_username: servicenow
 github_username:  stegelsn
 
 # Build settings
+
 theme: minima
 plugins:
   - jekyll-feed
