@@ -6,7 +6,7 @@ layout: home
 ---
 
 ## What is this site?
-The Product Design organization continues to evolve the out of the box user experience of our products and platform with each major release. This gives you a great starting point to deliver value and delight to your users. It is only a start. There are decisions that you make during implementation that may positively or negatively impact the user experience. This guide will help you understand how to use common human-centered design techniques to ensure your implemented solution delivers the outcomes to your business partners in a user friendly manner.
+ServiceNow continues to evolve the out of the box user experience of our products and platform with each major release. This gives you a great starting point to deliver value and delight to your users. It is only a start. There are decisions that you make during implementation that may positively or negatively impact the user experience. This guide will help you understand how to use common human-centered design techniques to ensure your implemented solution delivers the outcomes to your business partners in a user friendly manner.
 
 ## How should I browse this content?
 There are 5 key content types you'll find throughout the site
