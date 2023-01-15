@@ -14,7 +14,23 @@ This play guides you through the methods to understand how the process occurs to
 The first stage of the process is learn about your users and the current state process. The best method of doing this is to get right to the source by talking to an observing the users.
 
 ### Learn from your users
-[User Interviews](methods/user-interviews)
-[User Observations](methods/user-interviews)
-{% include method.html name="User Interviews" content="agasdfdafadf" %}
-These
+<div class="method-group">
+{% assign play_methods = site.methods | where: "plays", "TransformProcess" %}
+
+{% assign understand_methods = play_methods | where: "stage", "Understand" %}
+
+{% for method in understand_methods %}
+
+{% include method.html name=method.name content=method.description %}
+{% endfor %}
+</div>
+
+### Ideate
+<div class="method-group">
+{% assign ideate_methods = play_methods | where: "stage", "Ideate" %}
+
+{% for method in ideate_methods %}
+
+{% include method.html name=method.name content=method.description %}
+{% endfor %}
+</div>

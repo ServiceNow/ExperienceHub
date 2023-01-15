@@ -1,10 +1,9 @@
-***
-
+---
 title: "Methods * Prioritization Workshop"
-description: "Delivery team and stakeholders come together to align on the rank order of features and functionalities desired for a solution."
+description: Delivery team and stakeholders come together to align on the rank order of features and functionalities desired for a solution.
 layout: default
 permalink: /methods/prioritization
-***
+---
 
 ## Method Overview
  As much as you would like to tackle all the features and functionalities that surfaced, you must decide which to focus on first. You want to avoid prioritizing features, and functionality that doesn't align with your organization's goals. Bring diverse perspectives to this workshop so that you can ensure stakeholders, technical experts, designers and the rest of the team are aligned in scope. This can be done initially by starting with a Feasibility, Desirability, Viability Scorecard, or Impact*Effort Matrix. Then you can use Dot Voting to prioritize items based on the votes each item receives. You can use the list of ranked items to feed your backlog and drive prototyping.
