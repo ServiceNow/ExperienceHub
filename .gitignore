@@ -6,3 +6,4 @@ vendor
 Gemfile.lock
 .bundles_cache
 page-themes
+.DS_Store
