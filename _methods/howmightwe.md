@@ -1,6 +1,6 @@
 ---
     name: How Might We
-    plays: ["TransformProcess"]
-    stage: ["Understand"]
+    stage: ["Ideate"]
+    outcomes: ["TransformProcess"]
     description: Reframe backwards looking statements around the challenge with the current with an idealized view of the future
 ---

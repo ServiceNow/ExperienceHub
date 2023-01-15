@@ -14,8 +14,9 @@ This play guides you through the methods to understand how the process occurs to
 The first stage of the process is learn about your users and the current state process. The best method of doing this is to get right to the source by talking to an observing the users.
 
 ### Learn from your users
+Business processes are nothing without the users that interact along the way. It is important to understand how their expectations and behaviors shape the outcomes of the process.
 <div class="method-group">
-{% assign play_methods = site.methods | where: "plays", "TransformProcess" %}
+{% assign play_methods = site.methods | where: "outcomes", "TransformProcess" %}
 
 {% assign understand_methods = play_methods | where: "stage", "Understand" %}
 
@@ -26,6 +27,7 @@ The first stage of the process is learn about your users and the current state p
 </div>
 
 ### Ideate
+Once you have a strong understanding of the users and their relationship with the process, you are ready to start imagining a better future. The activities below will along you to focus on the future with limited time spent on "how it used to be".
 <div class="method-group">
 {% assign ideate_methods = play_methods | where: "stage", "Ideate" %}
 
