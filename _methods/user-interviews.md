@@ -4,4 +4,9 @@
     plays: ["UnderstandProcess"]
     stage: ["Understand"]
     outcomes: ["TransformProcess","DeliverSelfService"]
+    order: 100
+    output: true
+    layout: page
 ---
+
+## Blah de blah

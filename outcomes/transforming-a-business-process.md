@@ -16,13 +16,13 @@ The first stage of the process is learn about your users and the current state p
 ### Learn from your users
 Business processes are nothing without the users that interact along the way. It is important to understand how their expectations and behaviors shape the outcomes of the process.
 <div class="method-group">
-{% assign play_methods = site.methods | where: "outcomes", "TransformProcess" %}
+{% assign play_methods = site.methods | where: "outcomes", "TransformProcess" | sort: "order" %}
 
 {% assign understand_methods = play_methods | where: "stage", "Understand" %}
 
 {% for method in understand_methods %}
 
-{% include method.html name=method.name content=method.description %}
+{% include method.html  method=method %}
 {% endfor %}
 </div>
 
@@ -33,6 +33,6 @@ Once you have a strong understanding of the users and their relationship with th
 
 {% for method in ideate_methods %}
 
-{% include method.html name=method.name content=method.description %}
+{% include method.html method=method %}
 {% endfor %}
 </div>

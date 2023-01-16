@@ -4,4 +4,6 @@
     plays: ["UnderstandProcess"]
     stage: ["Ideate"]
     outcomes: ["TransformProcess","DeliverSelfService"]
+    order: 300  
+    layout: page
 ---

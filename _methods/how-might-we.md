@@ -1,10 +1,12 @@
 ---
-title: "How Might We"
-description: "Reframe backwards looking statements around the challenge with the current with an idealized view of the future"
-layout: page
-permalink: /methods/how-might-we
+    name: How Might We
+    stage: ["Ideate"]
+    outcomes: ["TransformProcess"]
+    description: Reframe backwards looking statements around the challenge with the current with an idealized view of the future
+    order: 100
+    layout: page
+
 ---
- 
 ## Method Overview
 It is often difficult for teams to move beyond a punch list of problems to fix and focus on envisioning a better tomorrow. By reframing the problems into How Might We… statements teams can then apply the platform’s capabilities to achieve the business’ outcome.
 
