@@ -18,4 +18,4 @@ There are 5 key content types you'll find throughout the site
 We don't intend this site to be a generic User Experience 101 learning resource. There are [plenty](uxresources.md) of resources to help build a UX foundation. Instead we want to provide specific methods and plays relevant to the ServiceNow ecosystem.
 
 Consider what your business is trying to accomplish and select fromt he list below to see content relevant to these common outcomes
-[Delivering a Great Self Service Experience](deliveringAGreatSelfServiceExperience.md)
+[Delivering a Great Self Service Experience](/outcomes/deliver-great-self-service-experience)

@@ -46,7 +46,9 @@ collections:
 navbar-links:
   Methods: "methods"
   Plays: "plays"
+  Insights: "insights"
   ServiceNow: "https://www.servicenow.com"
+
 
 
 ################
