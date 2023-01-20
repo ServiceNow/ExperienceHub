@@ -37,6 +37,10 @@ github:
 collections:
   methods:
     output: true
+  outcomes:
+    output: true
+  plays:
+    output: true
 
 
 ###############################################
@@ -44,8 +48,9 @@ collections:
 ###############################################
 
 navbar-links:
-  Methods: "methods"
-  Plays: "plays"
+  Outcomes: "/outcomes"
+  Methods: "/methods"
+  Plays: "/plays"
   Insights: "insights"
   ServiceNow: "https://www.servicenow.com"
 

@@ -4,6 +4,7 @@ subtitle: Focus on your requestors expectations to deliver intuitive employee an
 share-description: When creating a self-service destination to help customers and employees resolve issues and get back to value, it is critical to create clear paths to resolution. That means understanding how your users expect to explore content, provide information and get back to good. By following these methods and best practices, you will meet your users' needs with a delightful experience.
 layout: page
 permalink: /outcomes/deliver-great-self-service-experience
+tags: ["Employee Center","Customer Service Management"]
 ---
 {% assign outcome_methods = site.methods | where: "outcomes", "DeliverSelfService" | sort: "order" %}
 

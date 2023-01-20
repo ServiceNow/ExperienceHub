@@ -12,10 +12,26 @@ We organize methods into 3 different categories
 - Ideate - Techniques to generate and validate ideas for how to solve a business problem
 - Create - Techniques to create the artifacts to feed your implementation
 
-
+{% assign understand_methods = site.methods | where: "stage", "Understand" %}
+{% assign create_methods = site.methods | where: "stage", "Create" %}
+{% assign ideate_methods = site.methods | where: "stage", "Ideate" %}
 ## Understand
+<div class="method-group">
+{% for method in understand_methods %}
+  {% include method.html  method=method %}
+{% endfor %}
+</div>
 
 ## Ideate
-[How Might We](./how-might-we) - Reframe backwards looking statements around the challenge with the current with an idealized view of the future
+<div class="method-group">
+{% for method in ideate_methods %}
+  {% include method.html  method=method %}
+{% endfor %}
+</div>
 
-[Prioritization](./prioritization) - Delivery team and stakeholders come together to align on the rank order of features and functionalities desired for a solution.
+## Create
+<div class="method-group">
+{% for method in create_methods %}
+  {% include method.html  method=method %}
+{% endfor %}
+</div>
