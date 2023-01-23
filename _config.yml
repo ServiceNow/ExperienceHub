@@ -41,6 +41,10 @@ collections:
     output: true
   plays:
     output: true
+  best-practices:
+    output: true
+  guides: 
+    output: true
 
 
 ###############################################
