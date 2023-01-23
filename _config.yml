@@ -55,8 +55,10 @@ navbar-links:
   Outcomes: "/outcomes"
   Methods: "/methods"
   Plays: "/plays"
-  Insights: "insights"
-  ServiceNow: "https://www.servicenow.com"
+  Guides: "/guides"
+  Best Practices: "/best-practices"
+  # Insights: "insights"
+  # ServiceNow: "https://www.servicenow.com"
 
 
 
