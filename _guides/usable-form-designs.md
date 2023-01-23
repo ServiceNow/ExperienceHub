@@ -2,7 +2,7 @@
 title: Usable Form Design
 share-description: Most applications built by ServiceNow or on the ServiceNow platform relies on the creation of data to power the workflows that deliver value to the business. Often, that data is created by human input through forms. To ensure desirable outcomes for the business and users, forms need to ask clear questions, use the simplest input to efficient collect data, and help the user recover when things go wrong. 
 layout: page
-permalink: /best-practices/form-design
+permalink: /guides/form-design
 ---
 ## Introduction
 Most applications built by ServiceNow or on the ServiceNow platform relies on the creation of data to power the workflows that deliver value to the business. Often, that data is created by human input through forms. To ensure desirable outcomes for the business and users, forms need to ask clear questions, use the simplest input to efficient collect data, and help the user recover when things go wrong. 
