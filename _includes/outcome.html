@@ -1,7 +1,7 @@
 <div class="outcome-card">
     <h2>{{ outcome.title }}</h2>
     <p> {{ outcome.share-description }}</p>
-    <a href="{{ outcome.url }}" class="btn btn-primary btn-sm">Learn More...</a>
+    <a href="{{ outcome.permalink }}" class="btn btn-primary btn-sm">Learn More...</a>
 
     <div class="outcome-tags">
         {% for tag in outcome.tags %}
