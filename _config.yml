@@ -37,15 +37,19 @@ github:
 collections:
   methods:
     output: true
+    permalink: /:collection/:name
   outcomes:
     output: true
     permalink: /:collection/:title
   plays:
     output: true
+    permalink: /:collection/:name
   best-practices:
     output: true
+    permalink: /:collection/:name
   guides: 
     output: true
+    permalink: /:collection/:name
 
 
 ###############################################
