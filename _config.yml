@@ -39,6 +39,7 @@ collections:
     output: true
   outcomes:
     output: true
+    permalink: /:collection/:title
   plays:
     output: true
   best-practices:
