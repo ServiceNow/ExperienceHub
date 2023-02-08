@@ -93,8 +93,8 @@ site-css:
 # --- Build Settings --- #
 ##########################
 
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: daattali/beautiful-jekyll@5.0.0
+remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: daattali/beautiful-jekyll@5.0.0
 # theme: daattali/beautiful-jekyll@5.0.0
 #theme: minima
 plugins:
