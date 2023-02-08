@@ -10,7 +10,7 @@
     related: ["Tree Testing"]
 ---
 ## Method Overview
-A key challenging when organizing large amounts of content or web pages in a application is deciding how to group related content in a coherent way. Often organizations map digital content to how their actuall business is organized. Unfortunately, this does not always map to users’ mental model of the content they are trying to find. Card sorting is a generative exercise where participants provide their perspective of how content should be organized by physically placing content items into logical groupings.
+A key challenging when organizing large amounts of content or web pages in a application is deciding how to group related content in a coherent way. Often organizations map digital content to how their actual business is organized. Unfortunately, this does not always map to users’ mental model of the content they are trying to find. Card sorting is a generative exercise where participants provide their perspective of how content should be organized by physically placing content items into logical groupings.
 
 ## Outcomes
 * Ideal content taxonomy based on users’ mental model
@@ -28,7 +28,7 @@ Test participants should represent potential users of the site and have limited 
 * Index Cards if not using online tool (2 colors)
 
 ## Process
-When conducting a card sort we recommend that you conduct a few moderated sessions (3-5) to get qualitatitive feedback and confirm the test is well structured. In addition, you should run 20+ users through unmoderated testing to get a large enough sample of data to make decisions.
+When conducting a card sort we recommend that you conduct a few moderated sessions (3-5) to get qualitative feedback and confirm the test is well structured. In addition, you should run 20+ users through unmoderated testing to get a large enough sample of data to make decisions.
 
 #### There are two types of card sorts that you can use
 
