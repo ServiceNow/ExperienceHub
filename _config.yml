@@ -24,7 +24,7 @@ email: experiencehub@servicenow.com
 description: >- # this means to ignore newlines until "baseurl:"
   Learn how to deliver great experiences with ServiceNow products and the platform through user experience (ux) methods and plays. Learn how to deliver valuable outcomes to your business by using human-centered design (HCD) techniques during your implmentation process.
 domain: servicenow.github.io
-baseurl: "/Experiencehub" # the subpath of your site, e.g. /blog
+baseurl: "/ExperienceHub" # the subpath of your site, e.g. /blog
 url: "https://servicenow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: servicenow
 github_username:  stegel
