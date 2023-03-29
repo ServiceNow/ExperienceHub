@@ -50,17 +50,7 @@ Ideally this is conducted with participants that interact with the process or bu
 ## Synthesis
 Vote on the top 3-5 How Might We... statements and use them as prompts in an ideation session.
 
-## Related Methods
-{% assign methods = site.methods | where: "related", "How Might We" %}
-{% for method in methods %}
-  {% include method.html  method=method %}
-{% endfor %}
-
-## Related Plays
-{% assign outcomes = site.outcomes | where: "related", "How Might We" %}
-{% for outcome in outcomes %}
-  {% include outcome.html  outcome=outcome %}
-{% endfor %}
+{% include related.html %}
 
 
 ## Learn More

@@ -1,0 +1,6 @@
+{% assign methods = site.methods | where: "related", page.name %}
+<div class="method-group">
+   {% for method in methods %}
+     {% include method.html  method=method %}
+   {% endfor %}
+</div>

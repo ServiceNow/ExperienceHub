@@ -1,0 +1,6 @@
+{% assign outcomes = site.outcomes | where: "related", page.name %}
+<div class="outcome-group">
+{% for outcome in outcomes %}
+  {% include outcome.html  outcome=outcome %}
+{% endfor %}
+</div>

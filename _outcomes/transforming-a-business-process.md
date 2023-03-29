@@ -3,6 +3,7 @@ title: Transforming a Business Process
 subtitle: Apply methods to understand and evolve the current state
 share-description: When migrating and existing business process to ServiceNow you can follow this play to drive understanding of the current state, ideate how to best leverage the platform to improve the efficiency and usability of the process and validate that the solution will resonate with users and stakeholders.
 layout: page
+related: ["Challenges and Opportunities"]
 ---
 When you are looking at an existing business process that you want to digitize (e.g. the existing process is mostly offline) or migrate (move off an existing solution to ServiceNow), success comes from learning about the current state, the needs and challenges the users experience, and the goals of the business. With those insights, you can then ideate on how to realize the transformation with the ServiceNow platform.
 

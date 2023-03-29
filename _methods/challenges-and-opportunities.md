@@ -5,7 +5,7 @@
     description: Identify what is working well and holding you back from achieving a stated goal.
     order: 100
     layout: page
-    related: ["How Might We"]
+    related: ["How Might We","Long Term Goal"]
 ---
 ## Overview
 A fun and engaging workshop where participants identify what is helping or hindering your team’s ability to achieve stated goal. In the workshop, participants identify the "winds" that move you closer to the goal and the “anchors” that hold you back.
@@ -48,19 +48,9 @@ You want an equal representation of participants to shed light on the user, busi
 ## Synthesis
 You can use the anchors to inspire ideation. We suggest reframing the challenges into [How Might We...](./how-might-we) statements first.
 
-## Related Methods
-{% assign methods = site.methods | where: "related", "Challenges and Opportunities" %}
-{% for method in methods %}
-  {% include method.html  method=method %}
-{% endfor %}
-
-## Related Plays
-{% assign outcomes = site.outcomes | where: "related", "Challenges and Opportunities" %}
-{% for outcome in outcomes %}
-  {% include outcome.html  outcome=outcome %}
-{% endfor %}
+{% include related.html %}
 
 ## Learn More
-- (The "Anchors and Winds" approach)[https://www.curiositytank.com/blog/the-anchors-and-wind-approach]
-- (The Hot Air Balloon retrospective in 9 steps)[https://conceptboard.com/blog/hot-air-balloon-retrospective-template/]
-- (Hot Air Balloon)[https://thefacilitationhub.com/tools/hot-air-balloon-planning/]
+- [The "Anchors and Winds" approach](https://www.curiositytank.com/blog/the-anchors-and-wind-approach)
+- [The Hot Air Balloon retrospective in 9 steps](https://conceptboard.com/blog/hot-air-balloon-retrospective-template/)
+- [Hot Air Balloon](https://thefacilitationhub.com/tools/hot-air-balloon-planning/)
