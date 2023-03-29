@@ -33,7 +33,7 @@ You want an equal representation of participants to shed light on the user, busi
 ## Process
 
 ### Before you start
-1.	Identify your goal, or specific solution that you will be talking about. Consider the (Long Term Goal)[./long-term-goal] method if the goal is not clear.
+1.	Identify your goal, or specific solution that you will be talking about. Consider the [Long Term Goal](./long-term-goal) method if the goal is not clear.
 2.	Set up your online collaboration space, or in person conference room.
 
 1. The facilitator will present the stated long term goal to all participants
@@ -47,7 +47,7 @@ You want an equal representation of participants to shed light on the user, busi
 9. The items with the most votes are the challenges that you should focus on first
 
 ## Synthesis
-You can use the anchors to inspire ideation. We suggest reframing the challenges into (How Might We...)[./how-might-we] statements first.
+You can use the anchors to inspire ideation. We suggest reframing the challenges into [How Might We...](./how-might-we) statements first.
 
 ## Related Methods
 {% assign methods = site.methods | where: "related", "Challenges and Opportunities" %}

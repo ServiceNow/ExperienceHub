@@ -23,7 +23,7 @@ The structure of the statement opens up possibilities for solution ideation;
 
 ## Prerequisites
 * Identified long term goals for a process or business model
-* Prioritized list of current state challenges (See: (Prioritization)[./prioritization])
+* Prioritized list of current state challenges (See: [Prioritization](./prioritization))
 
 ## Participants
 Ideally this is conducted with participants that interact with the process or business model and leadership sponsoring the transformation.
@@ -50,12 +50,17 @@ Ideally this is conducted with participants that interact with the process or bu
 Vote on the top 3-5 How Might We... statements and use them as prompts in an ideation session.
 
 ## Related Methods
-* [Prioritization](./prioritization)
-<!-- * Challenges & Friction
-* Long Term Goals & Challenges -->
+{% assign methods = site.methods | where: "related", "How Might We" %}
+{% for method in methods %}
+  {% include method.html  method=method %}
+{% endfor %}
 
 ## Related Plays
-[Transforming a Business Process](/plays/transforming-a-business-process)
+{% assign outcomes = site.outcomes | where: "related", "How Might We" %}
+{% for outcome in outcomes %}
+  {% include outcome.html  outcome=outcome %}
+{% endfor %}
+
 
 ## Learn More
 [Using “How Might We” Questions to Ideate on the Right Problems](https://www.nngroup.com/articles/how-might-we-questions/)
