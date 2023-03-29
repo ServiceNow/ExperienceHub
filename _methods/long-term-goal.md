@@ -1,5 +1,5 @@
 ---
-    name: Long Term Goals
+    name: Long Term Goal
     stage: ["Understand"]
     outcomes: ["TransformProcess"]
     description: Align stakeholders on the long term goals of the project.
@@ -10,3 +10,5 @@
 **This method is in development**
 
 In the mean time, check out the [Design Thinking Toolkit](https://designthinkingtoolkit.co/content/long-term-goal)
+
+{% include related.html %}
