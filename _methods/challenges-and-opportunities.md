@@ -33,18 +33,17 @@ You want an equal representation of participants to shed light on the user, busi
 ## Process
 
 ### Before you start
-1.	Identify your goal, or specific solution that you will be talking about. Consider the [Long Term Goal](./long-term-goal) method if the goal is not clear.
-2.	Set up your online collaboration space, or in person conference room.
-
-1. The facilitator will present the stated long term goal to all participants
-2. Each participant documents 3-5 "winds" that currently help the organization achieve the presented goal. **5 minutes**
-3. Each participant documents 3-5 "anchors" that currently *prevent* the organization from achieving the presented goal. **5 minutes**
-4. In groups of no more than FOUR, share your winds and anchors.
-5. Each group should vote on their Top 3 anchors
-6. Select 1 representative from each group to share their anchors on the main whiteboard.
-7. After all groups have shared, work with the presenters to find logical groupings of anchors
-8. Give each participant 3 voting dots and ask them to vote on their TOP 3 anchor groups. *They can vote on one group multiple times*
-9. The items with the most votes are the challenges that you should focus on first
+1. Identify your goal, or specific solution that you will be talking about. Consider the [Long Term Goal](./long-term-goal) method if the goal is not clear.
+2. Set up your online collaboration space, or in person conference room.
+3. The facilitator will present the stated long term goal to all participants
+4. Each participant documents 3-5 "winds" that currently help the organization achieve the presented goal. **5 minutes**
+5. Each participant documents 3-5 "anchors" that currently *prevent* the organization from achieving the presented goal. **5 minutes**
+6. In groups of no more than FOUR, share your winds and anchors. **10 minutes**
+7. Each group should vote on their Top 3 anchors. **5 minutes**
+8. Select 1 representative from each group to share their anchors on the main whiteboard.
+9. After all groups have shared, work with the presenters to find logical groupings of anchors. **5 minutes**
+10. Give each participant 3 voting dots and ask them to vote on their TOP 3 anchor groups. *They can vote on one group multiple times*
+11. The items with the most votes are the challenges that you should focus on first
 
 ## Synthesis
 You can use the anchors to inspire ideation. We suggest reframing the challenges into [How Might We...](./how-might-we) statements first.
