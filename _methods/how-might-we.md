@@ -5,6 +5,7 @@
     description: Reframe backwards looking problem statements into challenge statements for a better future.
     order: 100
     layout: page
+    related: ["Challenges and Opportunities"]
 
 ---
 ## Method Overview

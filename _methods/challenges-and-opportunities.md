@@ -5,7 +5,7 @@
     description: Identify what is working well and holding you back from achieving a stated goal.
     order: 100
     layout: page
-
+    related: ["How Might We"]
 ---
 ## Overview
 A fun and engaging workshop where participants identify what is helping or hindering your team’s ability to achieve stated goal. In the workshop, participants identify the "winds" that move you closer to the goal and the “anchors” that hold you back.
