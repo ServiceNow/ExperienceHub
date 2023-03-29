@@ -17,13 +17,6 @@ The structure of the statement opens up possibilities for solution ideation;
 * "might" frees us from having the right answer and lets us explore different angles
 * "we" represents the teamwork expected of the stakeholders working together.
 
-### Example
-**Too Narrow:** “How might we use a record producer to collect information?”
-
-**Too Broad:** “How might we make it easier?”
-
-**Ideal:** “How might we collect the right information from the user to keep the process moving forward?
-
 ## Outcomes
 * Prioritized list of areas to focus
 * Team focused on moving forward rather than looking back
